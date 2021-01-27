@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Go App",
-    "currentPage": "servicios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,7 +54,31 @@
     "imageResize": true,
     "uniqCompNum": 59,
     "versionPublish": "5.2.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "chatbutton": {
+      "phone": "+593969055449",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hola!👋\n\nNesecitas un flete nosotros te ayudamos ! 🔥\n\nGo la App de los fletes",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#d807f5",
+      "headerTitle": "👋 Chatea con nosotros!",
+      "placeholder": "Escribe aquí",
+      "zIndex": 10,
+      "enabled": true
+    },
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
